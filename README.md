@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avinashkrofficial
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me avipatna14@gmail.com
+- 📫 How to reach me avi.kr.personal@gmail.com
 - 😄 Pronouns: Avinash
 
 
