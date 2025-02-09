@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avinashkrofficial
+- 👋 Hi, I’m Avinash kumar
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me avi.kr.personal@gmail.com
