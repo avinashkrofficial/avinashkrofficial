@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me avi.kr.personal@gmail.com
-- 😄 Pronouns: Avinash
 
 ##
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=avinashkrofficial)
